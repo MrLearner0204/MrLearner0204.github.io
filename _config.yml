@@ -5,3 +5,16 @@ plugins:
 - jekyll-remote-theme
 show_downloads: false
 google_analytics:
+markdown: kramdown
+
+# Customization
+header_pages:
+  - about.md
+  - malware-analysis.md
+  - maldev-projects.md
+  
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
