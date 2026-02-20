@@ -51,7 +51,3 @@ The image above shows the output from the code snippet in 64dbg. we can see in m
 
 <img width="629" height="265" alt="image" src="https://github.com/user-attachments/assets/21e33ef6-a5df-493f-a622-daecc0474bae" />
 The image above shows the output from the PE-bear this shows the payload being stored in .data.
-
-![{9A561CFE-285A-4C47-981F-62F183ADB2BB}.png](attachment:deb25323-6226-476a-ac15-ad3c6eb6446e:9A561CFE-285A-4C47-981F-62F183ADB2BB.png)
-
-The image above shows the output from the PE-bear this shows the payload being stored in .data.
