@@ -50,4 +50,5 @@ Now using PE-bear & 64dbg to view the .data section and make sure our payload is
 The image above shows the output from the code snippet in 64dbg. we can see in memory map that address is getting marked to `data` and it has `RW—` which means Read and Write permission.
 
 <img width="629" height="265" alt="image" src="https://github.com/user-attachments/assets/21e33ef6-a5df-493f-a622-daecc0474bae" />
+
 The image above shows the output from the PE-bear this shows the payload being stored in .data.
