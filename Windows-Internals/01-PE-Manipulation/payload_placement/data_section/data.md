@@ -44,10 +44,10 @@ The demonstration of this with below code.
 	}
 ```
 
-Now using PE-bear & 64dbg to view the .data section and make sure our payload is actually there.
+Now using PE-bear & x64dbg to view the .data section and make sure our payload is actually there.
 <img width="1373" height="449" alt="image" src="https://github.com/user-attachments/assets/953a1d33-379e-4e5e-85e5-c8124dacc68f" />
 
-The image above shows the output from the code snippet in 64dbg. we can see in memory map that address is getting marked to `data` and it has `RW—` which means Read and Write permission.
+The image above shows the output from the code snippet in x64dbg. we can see in memory map that address is getting marked to `data` and it has `RW—` which means Read and Write permission.
 
 <img width="629" height="265" alt="image" src="https://github.com/user-attachments/assets/21e33ef6-a5df-493f-a622-daecc0474bae" />
 
