@@ -4,4 +4,5 @@
 
 ## 🧪 Techniques Explored
 ### 1. [`.data` Section Placement](data_section/data.md)
+### 2. [`.rdata` Section Placement](rdata_section/rdata.md)
 - **Concept**: Store payload in the initialized data section.
