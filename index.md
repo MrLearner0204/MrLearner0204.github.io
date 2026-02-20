@@ -29,7 +29,7 @@ Currently undertaking an intensive **29-day deep dive** into:
 
 ## 📚 Portfolio
 
-### [Windows Internal](/Windows-Internals)
+### [Windows Internal](/Windows-Internals/index.md)
 Important windows internal concepts for malware analyst, Reverse engineer and malware developer
 
 ### [Malware Analysis Writeups](/malware-analysis)
