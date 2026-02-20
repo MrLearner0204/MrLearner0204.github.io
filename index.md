@@ -29,6 +29,9 @@ Currently undertaking an intensive **29-day deep dive** into:
 
 ## 📚 Portfolio
 
+### [Windows Internal](/Windows-Internals)
+Important windows internal concepts for malware analyst, Reverse engineer and malware developer
+
 ### [Malware Analysis Writeups](/malware-analysis)
 Technical deep-dives into real-world malware families including LockBit 3.0, Pikabot, and packed samples.
 
