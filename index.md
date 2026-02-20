@@ -1,11 +1,11 @@
 ---
-title: "./ MrLearner0204 - Malware Researcher"
+title: "./ Krishna Thakker - Malware Researcher"
 description: "Windows Security Researcher | Malware Analyst | Reverse Engineer"
 ---
 
-# ./ MrLearner0204
+# ./ Krishna Thakker
 
-**Windows Security Researcher | Malware Analyst | Reverse Engineer**
+*Windows Security Researcher | Malware Analyst | Reverse Engineer*
 
 ---
 
