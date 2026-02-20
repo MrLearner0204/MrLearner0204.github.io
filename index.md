@@ -35,7 +35,7 @@ Important windows internal concepts for malware analyst, Reverse engineer and ma
 ### [Malware Analysis Writeups](/malware-analysis)
 Technical deep-dives into real-world malware families including LockBit 3.0, Pikabot, and packed samples.
 
-### [Malware development Projects](/malware-development-projects)
+### [Malware development Projects](/Advanced-Windows-Malware-development)
 Custom implementations of advanced evasion and injection techniques.
 
 ---
