@@ -4,4 +4,4 @@ This section contains the windows internal knowledge an Malware analyst, Reverse
 
 ### Topics
 
-- [Payload Placement in PE Sections](Windows-Internals/01-PE-Manipulation/payload_placement/Readme.md)
+- [Payload Placement in PE Sections](01-PE-Manipulation/payload_placement/Readme.md)
