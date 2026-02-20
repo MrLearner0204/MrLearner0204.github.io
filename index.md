@@ -32,7 +32,7 @@ Currently undertaking an intensive **29-day deep dive** into:
 ### [Malware Analysis Writeups](/malware-analysis)
 Technical deep-dives into real-world malware families including LockBit 3.0, Pikabot, and packed samples.
 
-### [Maldev Projects](/malware-development-projects)
+### [Malware development Projects](/malware-development-projects)
 Custom implementations of advanced evasion and injection techniques.
 
 ---
